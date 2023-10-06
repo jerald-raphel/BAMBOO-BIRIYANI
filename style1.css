@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-color: yellowgreen;
+    font-weight: 400;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
